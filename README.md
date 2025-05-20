@@ -1,5 +1,7 @@
 # MPU6050_Kicad
 
+<img src="./mpu6050_F.png" style="display:block; margin:auto; width:50%;" />  
+
 MPU6050模块Kicad PCB工程文件
 
 更改自 https://github.com/letanga/MPU6050_Kicad
